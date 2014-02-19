@@ -1,9 +1,6 @@
-CS451_Project2
-==============
+CS 451 Project 2: Single Cycle CPU Implementation using JLS
 
-CS451 Project 2: Single Cycle CPU Implementation using JLS
-
-* Authors: Nick Olesak and Nick Paqette
+* Authors: Nick Olesak and Nick Paquette
 * Instructor: Dr. Kurmas
 * Course: CIS 451
 * Assigment: Project 2
